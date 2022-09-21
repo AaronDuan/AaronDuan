@@ -1,14 +1,3 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <title>Title</title>
-    <keyword>Professional manufacturer of nickel alloy materials such as inconel718, inconel625, monel400, monel k500, etc.</keyword>
-    <meta name="keywords" content="inconel 718, inconel 625, monel 400, monel k500">
-    <meta name="description" content="Professional manufacturer of nickel alloy materials such as inconel718, inconel625, monel400, monel k500, etc. | www.hitealloy.com">
-</head>
-<body>
-
 <div class="intro">
     <p>About us</p>
     <p>
@@ -46,6 +35,3 @@
     <p>Sincere and sincere cooperation, reputation and reputation meet. For more information,
         please visit: <a href="https://www.hitealloy.com">https://www.hitealloy.com</a></p>
 </div>
-
-</body>
-</html>
