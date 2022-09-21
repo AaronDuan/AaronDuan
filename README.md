@@ -1,5 +1,5 @@
 <div class="intro">
-    <p>About us</p>
+    <p>About us hitealloy.com</p>
     <p>
         Shanghai Hite Special Alloy Co., Ltd mainly manufactures and supplies nickel-based alloy material such as
         precision expansion alloy,
